@@ -7,9 +7,9 @@ How to run:
 
 example:
 
-	python encrypt.py cheie input.txt out1.bin
+	python encrypt.py cheie input.txt output.txt
 	
-	python decrypt.py out1.txt cheie out2.bin
+	python decrypt.py output.txt cheie outputDecrypted.txt
 	
 
 Cum functioneaza:
