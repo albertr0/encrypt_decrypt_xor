@@ -1,8 +1,12 @@
 How to run:
+	
+	cd .../General
+	
 	python encrypt.py -key -inputFile -outputFile
 
 
 example:
+
 	python encrypt.py cheie input.txt out1.bin
 	
 	python decrypt.py out1.txt cheie out2.bin
